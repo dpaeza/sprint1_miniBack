@@ -1,0 +1,1235 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Olga Valera",
+      "cellphone": 3006683998,
+      "password": "abcd",
+      "url_profile_image": "https://dam.muyinteresante.com.mx/wp-content/uploads/2018/05/fotos-de-perfil-son-mejor-elegidas-por-personas-extranas-afirma-estudio.jpg",
+      "flag": true,
+      "phrase": "La vida es beia",
+      "last_on_line": "8/2/2023 11: 57 am"
+    },
+    {
+      "id": 2,
+      "name": "Daniela Paez",
+      "cellphone": 3022393397,
+      "password": "abcde",
+      "url_profile_image": "https://www.elpais.com.co/files/article_main_small/uploads/2021/10/26/6178a3de14a17.jpeg",
+      "flag": true,
+      "phrase": "La vida es beia",
+      "last_on_line": "6/2/2023 1:19 pm"
+    },
+    {
+      "name": "Adriana Paez",
+      "cellphone": 3022395647,
+      "password": "abcdef",
+      "url_profile_image": "https://heraldodemexico.com.mx/u/fotografias/m/2021/7/16/f768x1-397098_397225_79.jpg",
+      "flag": true,
+      "phrase": "Disponible",
+      "last_on_line": "2/2/2023 2:05 pm",
+      "id": 3
+    },
+    {
+      "name": "Antonia",
+      "cellphone": 3007894561,
+      "password": "6546541",
+      "url_profile_image": "https://imagenes.razon.com.mx/files/image_640_434/files/fp/uploads/2021/09/11/613cdd1ae65f6.r_d.690-443-0.jpeg",
+      "flag": true,
+      "phrase": "5156165161",
+      "last_on_line": "1/2/2023 6:54 pm",
+      "id": 4
+    },
+    {
+      "name": "Luis Perez",
+      "cellphone": 3117894561,
+      "password": "4526",
+      "url_profile_image": "https://i0.wp.com/thehappening.com/wp-content/uploads/2017/07/foto-perfil-5.jpg?resize=1024%2C694&ssl=1",
+      "flag": true,
+      "phrase": "Ocupado",
+      "last_on_line": "1/2/2023 6:54 pm",
+      "id": 5
+    },
+    {
+      "name": "Luisa Caceres",
+      "cellphone": 3008524561,
+      "password": "ma56tca",
+      "url_profile_image": "https://socialtools.me/wp-content/uploads/2016/04/foto-de-perfil.jpg",
+      "flag": true,
+      "phrase": "Disponible",
+      "last_on_line": "1/2/2023 6:54 pm",
+      "id": 6
+    },
+    {
+      "name": "Martin Pacheco",
+      "cellphone": 3027631515,
+      "password": "caca01",
+      "url_profile_image": "https://www.lavanguardia.com/files/content_image_mobile_filter/uploads/2018/07/25/5fa43c9755611.jpeg",
+      "flag": true,
+      "phrase": "Disponible",
+      "last_on_line": "1/2/2023 6:54 pm",
+      "id": 7
+    },
+    {
+      "name": "Martina Garcia",
+      "cellphone": 3147562525,
+      "password": "papah15",
+      "url_profile_image": "https://album.mediaset.es/cimg/1010/2019/10/31/PERFIL-PEQUENA_057b.jpg?w=480",
+      "flag": true,
+      "phrase": "Disponible",
+      "last_on_line": "1/2/2023 6:54 pm",
+      "id": 8
+    },
+    {
+      "name": "Dana Garcia",
+      "cellphone": 3154896464,
+      "password": "cepaK45",
+      "url_profile_image": "http://estaticos.elmundo.es/assets/multimedia/imagenes/2016/08/08/14706650512531.jpg",
+      "flag": true,
+      "phrase": "Disponible",
+      "last_on_line": "1/2/2023 6:54 pm",
+      "id": 9
+    },
+    {
+      "name": "Adrian Gonzales",
+      "cellphone": 31423234568,
+      "password": "45215k",
+      "url_profile_image": "https://pymstatic.com/44253/conversions/xavier-molina-medium.jpg",
+      "flag": true,
+      "phrase": "Disponible",
+      "last_on_line": "1/2/2023 6:54 pm",
+      "id": 10
+    },
+    {
+      "name": "Jairo Rios",
+      "cellphone": 3132554895,
+      "password": "456265jdk",
+      "url_profile_image": "https://i0.wp.com/lamiradafotografia.es/wp-content/uploads/2014/07/foto-perfil-psicologo-180x180.jpg?resize=180%2C180",
+      "flag": true,
+      "phrase": "Disponible",
+      "last_on_line": "1/2/2023 6:54 pm",
+      "id": 11
+    },
+    {
+      "name": "Jaime Char",
+      "cellphone": 3126326398,
+      "password": "akndhfja65415",
+      "url_profile_image": "https://www.webconsultas.com/sites/default/files/styles/wc_adaptive_image__small/public/media/2019/11/08/perfil_personas_cuesta_perdonar.jpg",
+      "flag": true,
+      "phrase": "Disponible",
+      "last_on_line": "1/2/2023 6:54 pm",
+      "id": 12
+    },
+    {
+      "name": "Jose Lima",
+      "cellphone": 3114789593,
+      "password": "arnfrn64154",
+      "url_profile_image": "https://blogs.funiber.org/wp-content/uploads/2016/04/2-perfil-ancianos.jpg",
+      "flag": true,
+      "phrase": "Disponible",
+      "last_on_line": "1/2/2023 6:54 pm",
+      "id": 13
+    }
+  ],
+  "messages": [
+    {
+      "id": 1,
+      "idUser1": 1,
+      "idUser2": 2,
+      "conversations": [
+        {
+          "sendBy": 1,
+          "date": "1/1/2023",
+          "hour": "6:54 pm",
+          "message": "holis, cómo estas? Que cuentas? gallina turuleca",
+          "flag": true
+        },
+        {
+          "sendBy": 2,
+          "date": "1/2/2023",
+          "hour": "7:40 pm",
+          "message": "bien y tuu?? rato sin saber de tiii",
+          "flag": true
+        },
+        {
+          "sendBy": 2,
+          "date": "1/2/2023",
+          "hour": "7:41 pm",
+          "message": "cómo va la familia?",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "1/2/2023",
+          "hour": "7:44 pm",
+          "message": "yo bien tambien",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "1/2/2023",
+          "hour": "7:45 pm",
+          "message": "no que va",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "3/2/2023",
+          "hour": "6:00 pm",
+          "message": "hola",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "3/2/2023",
+          "hour": "6:13 pm",
+          "message": "como estas?",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "3/2/2023",
+          "hour": "6:15 pm",
+          "message": "yo bien ",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "3/2/2023",
+          "hour": "6:15 pm",
+          "message": "holaaa",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "3/2/2023",
+          "hour": "6:25 pm",
+          "message": "holiissss",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "3/2/2023",
+          "hour": "7:02 pm",
+          "message": "bien",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "3/2/2023",
+          "hour": "7:18 pm",
+          "message": "holis",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "3/2/2023",
+          "hour": "10:06 pm",
+          "message": "hola",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "3/2/2023",
+          "hour": "10:06 pm",
+          "message": "holis",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "3/2/2023",
+          "hour": "10:06 pm",
+          "message": "bien",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "3/2/2023",
+          "hour": "10:06 pm",
+          "message": "hola",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "3/2/2023",
+          "hour": "10:06 pm",
+          "message": "bien",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "3/2/2023",
+          "hour": "10:08 pm",
+          "message": "Mariflorrr",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "3/2/2023",
+          "hour": "10:08 pm",
+          "message": "TUCUTUUU",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "3/2/2023",
+          "hour": "10:08 pm",
+          "message": "BAMB",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "3/2/2023",
+          "hour": "10:10 pm",
+          "message": "UMBUM",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "3/2/2023",
+          "hour": "10:11 pm",
+          "message": "HALAA",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "3/2/2023",
+          "hour": "10:13 pm",
+          "message": "HOLUUU",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "3/2/2023",
+          "hour": "10:13 pm",
+          "message": "BUN",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "3/2/2023",
+          "hour": "10:13 pm",
+          "message": "",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "3/2/2023",
+          "hour": "10:13 pm",
+          "message": "",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "3/2/2023",
+          "hour": "10:13 pm",
+          "message": "",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "3/2/2023",
+          "hour": "10:14 pm",
+          "message": "hola",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "3/2/2023",
+          "hour": "10:14 pm",
+          "message": "CHAA",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "3/2/2023",
+          "hour": "10:14 pm",
+          "message": "",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "3/2/2023",
+          "hour": "10:16 pm",
+          "message": "bonus",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "3/2/2023",
+          "hour": "10:16 pm",
+          "message": "cha",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "3/2/2023",
+          "hour": "10:17 pm",
+          "message": "bla",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "3/2/2023",
+          "hour": "10:17 pm",
+          "message": "prueba 1",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "3/2/2023",
+          "hour": "10:17 pm",
+          "message": "prueba 2",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "3/2/2023",
+          "hour": "10:19 pm",
+          "message": "prueba 3",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "3/2/2023",
+          "hour": "10:19 pm",
+          "message": "prueba 4",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "3/2/2023",
+          "hour": "10:19 pm",
+          "message": "",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "3/2/2023",
+          "hour": "10:22 pm",
+          "message": "prueba 5",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "3/2/2023",
+          "hour": "10:22 pm",
+          "message": "prueba 6",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "4/2/2023",
+          "hour": "10:40 pm",
+          "message": "doce y cuarenta",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "4/2/2023",
+          "hour": "10:41 pm",
+          "message": "doce y cuarenta y uno",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "4/2/2023",
+          "hour": "2:14 pm",
+          "message": "fecha",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "4/2/2023",
+          "hour": "3:25 pm",
+          "message": "circo",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "4/2/2023",
+          "hour": "3:26 pm",
+          "message": "",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "4/2/2023",
+          "hour": "3:33 pm",
+          "message": "bambu",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "4/2/2023",
+          "hour": "3:34 pm",
+          "message": "cacerola",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "4/2/2023",
+          "hour": "3:34 pm",
+          "message": "pollito",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "4/2/2023",
+          "hour": "3:37 pm",
+          "message": "queso",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "4/2/2023",
+          "hour": "3:40 pm",
+          "message": "piña",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "4/2/2023",
+          "hour": "3:40 pm",
+          "message": "manzana",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "4/2/2023",
+          "hour": "3:57 pm",
+          "message": "pera",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "4/2/2023",
+          "hour": "4:28 pm",
+          "message": "colibrii",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "4/2/2023",
+          "hour": "4:28 pm",
+          "message": "melocoton",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "4/2/2023",
+          "hour": "4:50 pm",
+          "message": "guapa",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "4/2/2023",
+          "hour": "4:50 pm",
+          "message": "fresa",
+          "flag": true
+        },
+        {
+          "sendBy": 2,
+          "date": "4/2/2023",
+          "hour": "4:51 pm",
+          "message": "mango biche",
+          "flag": true
+        },
+        {
+          "sendBy": 2,
+          "date": "4/2/2023",
+          "hour": "4:51 pm",
+          "message": "guanabana",
+          "flag": true
+        },
+        {
+          "sendBy": 2,
+          "date": "4/2/2023",
+          "hour": "4:54 pm",
+          "message": "cabello rojo",
+          "flag": true
+        },
+        {
+          "sendBy": 2,
+          "date": "4/2/2023",
+          "hour": "4:56 pm",
+          "message": "cabello verde",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "4/2/2023",
+          "hour": "4:57 pm",
+          "message": "playa ",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "4/2/2023",
+          "hour": "5:37 pm",
+          "message": "vaiilla4",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "4/2/2023",
+          "hour": "5:42 pm",
+          "message": "ju",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "4/2/2023",
+          "hour": "5:42 pm",
+          "message": "ja",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "4/2/2023",
+          "hour": "5:44 pm",
+          "message": "bB",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "4/2/2023",
+          "hour": "5:44 pm",
+          "message": "kk",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "4/2/2023",
+          "hour": "5:53 pm",
+          "message": "blaaaaaaaaaaaaaa",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "4/2/2023",
+          "hour": "5:53 pm",
+          "message": "muaajj",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "4/2/2023",
+          "hour": "5:54 pm",
+          "message": "chacha",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "4/2/2023",
+          "hour": "5:54 pm",
+          "message": "pata",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "4/2/2023",
+          "hour": "6:09 pm",
+          "message": "mama",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "4/2/2023",
+          "hour": "6:09 pm",
+          "message": "papa e hijos",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "4/2/2023",
+          "hour": "6:09 pm",
+          "message": "perritos",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "4/2/2023",
+          "hour": "6:12 pm",
+          "message": "ua ua ",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "4/2/2023",
+          "hour": "6:13 pm",
+          "message": "praaa",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "4/2/2023",
+          "hour": "6:13 pm",
+          "message": "gatoss",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "4/2/2023",
+          "hour": "6:43 pm",
+          "message": "",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "4/2/2023",
+          "hour": "6:44 pm",
+          "message": "diojjj mioo4",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "4/2/2023",
+          "hour": "6:44 pm",
+          "message": "salvameee",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "4/2/2023",
+          "hour": "6:44 pm",
+          "message": "no entiendoo porque no funcionaaaa",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "4/2/2023",
+          "hour": "6:48 pm",
+          "message": "egrfsegrht",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "4/2/2023",
+          "hour": "6:48 pm",
+          "message": "nvghmjvhj",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "4/2/2023",
+          "hour": "6:49 pm",
+          "message": "ftyjftygfyjyjhjjjjjjjjjjjjjjjjjjjjjjjjjjjj",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "4/2/2023",
+          "hour": "6:49 pm",
+          "message": "nklmklñlñl",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "4/2/2023",
+          "hour": "7:43 pm",
+          "message": "",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "4/2/2023",
+          "hour": "7:54 pm",
+          "message": "holaa",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "4/2/2023",
+          "hour": "7:54 pm",
+          "message": "",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "4/2/2023",
+          "hour": "7:54 pm",
+          "message": "",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "4/2/2023",
+          "hour": "7:57 pm",
+          "message": "vz",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "4/2/2023",
+          "hour": "8:00 pm",
+          "message": "",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "4/2/2023",
+          "hour": "8:09 pm",
+          "message": "clacla",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "4/2/2023",
+          "hour": "8:09 pm",
+          "message": "",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "4/2/2023",
+          "hour": "8:11 pm",
+          "message": "chachuahdiah",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "4/2/2023",
+          "hour": "8:11 pm",
+          "message": "...",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "5/2/2023",
+          "hour": "11:13 am",
+          "message": "bajf",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "5/2/2023",
+          "hour": "11:13 am",
+          "message": "ja",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "5/2/2023",
+          "hour": "11:18 am",
+          "message": "tata",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "5/2/2023",
+          "hour": "11:21 am",
+          "message": "pra",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "5/2/2023",
+          "hour": "11:29 am",
+          "message": "pavo",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "5/2/2023",
+          "hour": "11:30 am",
+          "message": "marea",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "5/2/2023",
+          "hour": "11:42 am",
+          "message": "olasdel marea",
+          "flag": true
+        },
+        {
+          "sendBy": 2,
+          "date": "5/2/2023",
+          "hour": "11:50 am",
+          "message": "holaaa",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "5/2/2023",
+          "hour": "11:52 am",
+          "message": "bla bla",
+          "flag": true
+        },
+        {
+          "sendBy": 2,
+          "date": "5/2/2023",
+          "hour": "8:44 pm",
+          "message": "hola",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "5/2/2023",
+          "hour": "9:16 pm",
+          "message": "camarada",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "5/2/2023",
+          "hour": "9:16 pm",
+          "message": "cama",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "5/2/2023",
+          "hour": "9:23 pm",
+          "message": "sopa con arroz",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "6/2/2023",
+          "hour": "11:15 am",
+          "message": "aloha",
+          "flag": true
+        },
+        {
+          "sendBy": 2,
+          "date": "6/2/2023",
+          "hour": "12:21 pm",
+          "message": "guapa",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "6/2/2023",
+          "hour": "1:14 pm",
+          "message": "hola guapaa",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "6/2/2023",
+          "hour": "1:16 pm",
+          "message": "cómo estas??",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "6/2/2023",
+          "hour": "1:18 pm",
+          "message": "que es de tu vida?",
+          "flag": true
+        },
+        {
+          "sendBy": 2,
+          "date": "6/2/2023",
+          "hour": "1:41 pm",
+          "message": "yo bienn",
+          "flag": true
+        },
+        {
+          "sendBy": 2,
+          "date": "6/2/2023",
+          "hour": "1:41 pm",
+          "message": "estudiando ando",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "6/2/2023",
+          "hour": "1:42 pm",
+          "message": "me alegra",
+          "flag": true
+        },
+        {
+          "sendBy": 2,
+          "date": "6/2/2023",
+          "hour": "1:42 pm",
+          "message": ":)",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "6/2/2023",
+          "hour": "2:37 pm",
+          "message": "hola",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "6/2/2023",
+          "hour": "2:38 pm",
+          "message": "hola",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "6/2/2023",
+          "hour": "2: 41 pm",
+          "message": "hola, me dormi",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "7/2/2023",
+          "hour": "12: 31 pm",
+          "message": "hola",
+          "flag": false
+        },
+        {
+          "sendBy": 1,
+          "date": "7/2/2023",
+          "hour": "12: 32 pm",
+          "message": "cómo vas?",
+          "flag": false
+        },
+        {
+          "sendBy": 1,
+          "date": "7/2/2023",
+          "hour": "12: 49 pm",
+          "message": "bien bien",
+          "flag": false
+        },
+        {
+          "sendBy": 1,
+          "date": "7/2/2023",
+          "hour": "11: 57 pm",
+          "message": "hola",
+          "flag": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "idUser1": 1,
+      "idUser2": 3,
+      "conversations": [
+        {
+          "sendBy": 1,
+          "date": "1/2/2023",
+          "hour": "6:54 pm",
+          "message": "holis, cómo estas? Que cuentas?",
+          "flag": true
+        },
+        {
+          "sendBy": 3,
+          "date": "1/2/2023",
+          "hour": "7:40 pm",
+          "message": "no que va",
+          "flag": true
+        },
+        {
+          "sendBy": 3,
+          "date": "1/2/2023",
+          "hour": "7:41 pm",
+          "message": "cómo va la familia?",
+          "flag": true
+        },
+        {
+          "sendBy": 3,
+          "date": "1/2/2023",
+          "hour": "7:44 pm",
+          "message": "yo bien tambien",
+          "flag": true
+        },
+        {
+          "sendBy": 3,
+          "date": "1/2/2023",
+          "hour": "7:45 pm",
+          "message": "bien",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "4/2/2023",
+          "hour": "5:09 pm",
+          "message": "...",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "4/2/2023",
+          "hour": "5:10 pm",
+          "message": "chao",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "4/2/2023",
+          "hour": "5:11 pm",
+          "message": "arena con agua",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "4/2/2023",
+          "hour": "5:11 pm",
+          "message": "leche",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "4/2/2023",
+          "hour": "5:11 pm",
+          "message": "coco",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "4/2/2023",
+          "hour": "6:09 pm",
+          "message": "lol",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "4/2/2023",
+          "hour": "6:13 pm",
+          "message": "vaca lola",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "4/2/2023",
+          "hour": "6:29 pm",
+          "message": "boca manos pies",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "4/2/2023",
+          "hour": "6:29 pm",
+          "message": "sampues",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "4/2/2023",
+          "hour": "6:29 pm",
+          "message": "WTF",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "4/2/2023",
+          "hour": "6:32 pm",
+          "message": "que pasaaa",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "4/2/2023",
+          "hour": "6:44 pm",
+          "message": "rojo",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "4/2/2023",
+          "hour": "6:49 pm",
+          "message": "amarillo",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "4/2/2023",
+          "hour": "6:49 pm",
+          "message": "azul",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "4/2/2023",
+          "hour": "7:54 pm",
+          "message": "blanco",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "4/2/2023",
+          "hour": "7:54 pm",
+          "message": "lila",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "4/2/2023",
+          "hour": "7:57 pm",
+          "message": "morado mora",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "4/2/2023",
+          "hour": "8:00 pm",
+          "message": "ocre",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "4/2/2023",
+          "hour": "8:09 pm",
+          "message": "pastel",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "4/2/2023",
+          "hour": "8:11 pm",
+          "message": "verde menta",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "5/2/2023",
+          "hour": "11:13 am",
+          "message": "azul cielo",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "5/2/2023",
+          "hour": "11:18 am",
+          "message": "tete",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "5/2/2023",
+          "hour": "11:21 am",
+          "message": "foca",
+          "flag": true
+        },
+        {
+          "sendBy": 1,
+          "date": "5/2/2023",
+          "hour": "11:42 am",
+          "message": "chasis",
+          "flag": true
+        }
+      ]
+    },
+    {
+      "idUser1": 1,
+      "idUser2": 6,
+      "conversations": [
+        {
+          "sendBy": 1,
+          "date": "7/2/2023",
+          "hour": "8: 37 pm",
+          "message": "Hola Antonia",
+          "flag": false
+        },
+        {
+          "sendBy": 1,
+          "date": "7/2/2023",
+          "hour": "8: 57 pm",
+          "message": "holaa",
+          "flag": false
+        }
+      ],
+      "id": 3
+    }
+  ]
+}
